@@ -1,0 +1,13 @@
+* {
+	
+	margin: 0px;
+}
+
+body {
+	background: url("images/homeback.jpg") center center no-repeat fixed;
+	background-size: cover; 
+}
+
+#header-nav {
+	background-color: black;
+}
